@@ -964,3 +964,5 @@ test_forwarded
 test_update_port
 test_shared_lb
 test_shared_user_lb
+test_preserve_and_reused_fip
+test_healthmonitors
